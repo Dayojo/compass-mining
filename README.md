@@ -13,7 +13,7 @@ Before running the setup, ensure you have:
 - PostgreSQL installed locally (if running without Docker).
 - Bash shell (for running scripts).
 
-##Run Postgres as a container for testing
+## Run Postgres as a container for testing
 ```
 sudo docker run --name postgres-test \
     -e POSTGRES_PASSWORD=mysecretpassword \
