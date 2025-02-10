@@ -1,11 +1,10 @@
 # Compass Mining
 
-To simulate an environment that fosters an easy workflow between DBAs and Engineers managing infrastructures, scripts etc
-Two files have been created;
+To simulate an environment that fosters an easy workflow between DBAs and Engineers managing scripts and servers. Two files have been created;
 1. Schema (schema.sql) defines the database structure, including tables, functions, views, and user roles.
 2. Shell script (setup_db.sh) automates database setup by executing schema.sql and managing PostgreSQL connections.
 
-This repository contains scripts to set up a PostgreSQL database (booksdb) with predefined users, tables, functions, and views. Follow the instructions below to set up and use the database.
+Follow the instructions below to set up and use the script.
 
 ## 🛠️ Prerequisites
 
